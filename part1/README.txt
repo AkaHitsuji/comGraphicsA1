@@ -1,4 +1,8 @@
-*** Part 1 ***
-Name: Ang Yang
-Student Number: 42567644
-login ID: y2m1b@ugrad.cs.ubc.ca
+# Project Title
+
+Part 1 done based on given assignment
+
+## Getting Started
+
+Open A1.html in suitable web browser. Google Chrome recommended.
+Assignment coded with javascript and OpenGL.
